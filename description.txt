@@ -1,0 +1,3 @@
+Carbon is an optimization mod for tModLoader that stabilizes and enhances frame rates using advanced proprietary algorithms. It recycles frames to improve overall performance.
+
+Press F10 to view your frame rate and observe the difference! For even better results, consider installing High FPS Support to make full use of the newly created frames.
